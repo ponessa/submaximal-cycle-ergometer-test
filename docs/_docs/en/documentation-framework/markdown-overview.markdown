@@ -1,6 +1,6 @@
 ---
 title: Markdown Overview
-permalink: /en/learning-framework/markdown-overview
+permalink: /en/documentation-framework/markdown-overview
 abstract: >- # this means to ignore newlines until "baseurl:"
   Markdown cheat sheet providing a quick overview of all the Markdown syntax elements.
 ---

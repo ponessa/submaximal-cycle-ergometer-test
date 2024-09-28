@@ -1,6 +1,6 @@
 ---
 title: Project Structure
-permalink: en/learning-framework/project-structure
+permalink: en/documentation-framework/project-structure
 abstract: >- # this means to ignore newlines until "baseurl:"
   An overview of the directory structure of the WFM documentation tool.
 ---

@@ -1,18 +1,15 @@
-- title: Quickstart
+- title: Submax Ergometer Test
   docs:
-  - en/quickstart/setting-up-environment
-  - en/quickstart/initial-setup
-  - en/quickstart/adding-pages
-  - en/quickstart/writing-your-documents
-  - en/quickstart/running-locally-with-jekyll
+  - en/submax-ergo-test/overview
+  - en/submax-ergo-test/acsm-protocol
 
-- title: Learning the Framework
+- title: Learning the documentation framework
   docs:
-  - en/learning-framework/solution-overview
-  - en/learning-framework/project-structure
-  - en/learning-framework/markdown-overview
-  - en/learning-framework/adding-code-snippets
-  - en/learning-framework/adding-diagrams-with-mermaid
-  - en/learning-framework/adding-d3-searchable-trees
-  - en/learning-framework/adding-d3-searchable-trees-w-apis
-  - en/learning-framework/adding-datatables
+  - en/documentation-framework/solution-overview
+  - en/documentation-framework/project-structure
+  - en/documentation-framework/markdown-overview
+  - en/documentation-framework/adding-code-snippets
+  - en/documentation-framework/adding-diagrams-with-mermaid
+  - en/documentation-framework/adding-d3-searchable-trees
+  - en/documentation-framework/adding-d3-searchable-trees-w-apis
+  - en/documentation-framework/adding-datatables

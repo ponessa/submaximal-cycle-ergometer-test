@@ -1,6 +1,6 @@
 ---
 title: Test
-permalink: /en/learning-framework/test
+permalink: /en/documentation-framework/test
 features:
   - mermaid
   - d3

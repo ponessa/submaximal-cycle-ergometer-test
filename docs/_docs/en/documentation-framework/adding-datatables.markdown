@@ -1,6 +1,6 @@
 ---
 title: Adding Datatables
-permalink: /en/learning-framework/adding-datatables
+permalink: /en/documentation-framework/adding-datatables
 features:
   - select2
   - datatables

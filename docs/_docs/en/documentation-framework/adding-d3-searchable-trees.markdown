@@ -1,6 +1,6 @@
 ---
 title: Adding D3 Searchable Trees
-permalink: /en/learning-framework/adding-d3-searchable-trees
+permalink: /en/documentation-framework/adding-d3-searchable-trees
 features:
   - mermaid
   - d3

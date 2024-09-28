@@ -1,6 +1,6 @@
 ---
 title: Adding code snippets
-permalink: /en/learning-framework/adding-code-snippets
+permalink: /en/documentation-framework/adding-code-snippets
 features:
   - mermaid
 abstract: >- # this means to ignore newlines until "baseurl:"

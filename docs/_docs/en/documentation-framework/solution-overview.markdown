@@ -1,6 +1,6 @@
 ---
 title: Overview
-permalink: en/learning-framework/solution-overview
+permalink: en/documentation-framework/solution-overview
 abstract: >- # this means to ignore newlines until "baseurl:"
   This project is a lightweight documentation site builder that uses Markdown files to generate documentation pages, and configured with a single YAML configuration file.  It provides a customizable, responsive user interface that is optimized for both desktop and mobile devices. The documentation is kept along with the produce and hosted for free on GitHub Pages. 
 

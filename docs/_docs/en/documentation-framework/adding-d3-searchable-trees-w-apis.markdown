@@ -1,6 +1,6 @@
 ---
 title: Adding D3 Searchable Trees Using APIs
-permalink: /en/learning-framework/adding-d3-searchable-trees-w-apis
+permalink: /en/documentation-framework/adding-d3-searchable-trees-w-apis
 features:
   - d3
   - select2

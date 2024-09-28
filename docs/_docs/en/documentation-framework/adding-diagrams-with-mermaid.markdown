@@ -1,6 +1,6 @@
 ---
 title: Adding Diagrams With Mermaid
-permalink: /en/learning-framework/adding-diagrams-with-mermaid
+permalink: /en/documentation-framework/adding-diagrams-with-mermaid
 features:
   - mermaid
   - d3
