@@ -25,17 +25,52 @@ abstract: >- # this means to ignore newlines until "baseurl:"
 
 ![Workload Table]({{ site.baseurl }}/assets/images/docs/workload-table.png){: class="zoom" }
 
+---
+
+### Work rate by stage
+
 \\[Work rate (\frac{kg * m}{min}) = workload (kg) \times \frac{\text{rev}}{min} \times 6 \frac{m}{rev}\\]
 
-**Stage 1**: **0.5** \\( kg \times \frac{\text{rev}}{min} \times 6 \frac{m}{rev} = \\) **150.0** \\(\frac{kg * m}{min}\\)
+- **Stage 1**: \\(\mathbf{0.5\, kg} \times \frac{\text{rev}}{min} \times 6 \frac{m}{rev} = \mathbf{150.0 \frac{kg \cdot m}{min}}\\)
 
-**Stage 2**: **1.0** \\( kg \times \frac{\text{rev}}{min} \times 6 \frac{m}{rev} = \\) **300.0** \\(\frac{kg * m}{min}\\)
+- **Stage 2**: \\(\mathbf{1.0\, kg} \times \frac{\text{rev}}{min} \times 6 \frac{m}{rev} = \mathbf{300.0 \frac{kg \cdot m}{min}}\\)
 
-**Stage 3**: **1.5** \\( kg \times \frac{\text{rev}}{min} \times 6 \frac{m}{rev} = \\) **450.0** \\(\frac{kg * m}{min}\\)
+- **Stage 3**: \\(\mathbf{1.5\, kg} \times \frac{\text{rev}}{min} \times 6 \frac{m}{rev} = \mathbf{450.0 \frac{kg \cdot m}{min}}\\)
 
 ## VO<sub>2</sub> max Determination
 
 ### Method A
 
+\\[ 1.8 \times \frac{\text{estmated max work rate }(\frac{kg \cdot m}{min})}{\text{body weight (kg)}} + 7\, \text{ml} \cdot kg^{-1} \cdot min^{-1} = VO₂\, max\, (\text{ml} \cdot kg^{-1} \cdot min^{-1})\\]
+
+<br/>
+
+- Stage 1: \\( 1.8 \times \frac{\mathbf{150 }\frac{kg \cdot m}{min}}{\mathbf{86.4 kg}} + 7\, \text{ml} \cdot kg^{-1} \cdot min^{-1} = \mathbf{10.125\, \text{ml} \cdot kg^{-1} \cdot min^{-1}}\\)
+
+- Stage 2: \\( 1.8 \times \frac{\mathbf{300 }\frac{kg \cdot m}{min}}{\mathbf{86.4 kg}} + 7\, \text{ml} \cdot kg^{-1} \cdot min^{-1} = \mathbf{13.250\, \text{ml} \cdot kg^{-1} \cdot min^{-1}}\\)
+
+- **Stage 3**: \\( 1.8 \times \frac{\mathbf{450 }\frac{kg \cdot m}{min}}{\mathbf{86.4 kg}} + 7\, \text{ml} \cdot kg^{-1} \cdot min^{-1} = \mathbf{16.375\, \text{ml} \cdot kg^{-1} \cdot min^{-1}}\\)
+
+- Percentile ranck from table 7.4: **<10**
+- VO₂max classification from table 7.4: **Very Poor**
+
 ### Method B
 
+_not sure what stage A and stage B are .. or HRA and HRB_
+
+## Extrapolation
+
+| **Stage** | **Work rate** | **Heart rate** |
+|:---------:|--------------:|---------------:|
+| 1     | 150       | 110 |
+| 2     | 300       | 120 |
+| 3     | 450       | 131 |
+| ..    |           |     |
+| extrapolated | 1350 | 193 |
+
+
+![Graph A]({{ site.baseurl }}/assets/images/docs/graph-a.png){: class="zoom" }
+
+**or**
+
+![Graph B]({{ site.baseurl }}/assets/images/docs/graph-b.png){: class="zoom" }
