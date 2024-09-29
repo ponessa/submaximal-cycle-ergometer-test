@@ -26,15 +26,15 @@ description: >- # this means to ignore newlines until "baseurl:"
 #baseurl: ""
 baseurl: "/submaximal-cycle-ergometer-test" # the subpath of your site, e.g. /blog
 url: "https://ponessa.github.io/submaximal-cycle-ergometer-test/" # the base hostname & protocol for your site, e.g. http://example.com
-contact_reference: "https://ibm.enterprise.slack.com/user/@W52QZ3BJ8"
+contact_reference: "mailto:steven.ponessa@gmail.com"
 twitter_username: "@PonessaSteven"
 github_username:  steven.ponessa@gmail.com
 organization: XYZ
 documentation_landing_page: "/submaximal-cycle-ergometer-test"
 footer_links: [
-  {"title": "Terms", "url": "https://w3.ibm.com/#/info_terms_of_use"},
-  {"title": "Privacy", "url": "https://w3.ibm.com/w3-privacy-notice"},
-  {"title": "XYZ Home", "url": "https://w3.ibm.com/w3publisher/ibm-services-workforce-management"}
+  {"title": "Terms", "url": "https://"},
+  {"title": "Privacy", "url": "https://"},
+  {"title": "XYZ Home", "url": "https://"}
 ]
 
 max_abstract_length: 240
