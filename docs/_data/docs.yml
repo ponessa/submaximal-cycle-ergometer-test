@@ -2,6 +2,8 @@
   docs:
   - en/submax-ergo-test/overview
   - en/submax-ergo-test/acsm-protocol
+  - en/submax-ergo-test/vo2-max-determination
+  - en/submax-ergo-test/lab7-data-sheet
 
 - title: Learning the documentation framework
   docs:
