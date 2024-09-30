@@ -56,7 +56,29 @@ abstract: >- # this means to ignore newlines until "baseurl:"
 
 ### Method B
 
-_not sure what stage A and stage B are .. or HRA and HRB_
+Formulas:
+
+1. \\( 1.8 \times \frac{\text{stage A work rate }(\frac{kg \cdot m}{min})}{\text{body weight (kg)}} + 7\, \text{ml} \cdot kg^{-1} \cdot min^{-1} = SMA\\)
+
+1. \\( 1.8 \times \frac{\text{stage B work rate }(\frac{kg \cdot m}{min})}{\text{body weight (kg)}} + 7\, \text{ml} \cdot kg^{-1} \cdot min^{-1} = SMB\\)
+
+1. \\( \frac{SMA - SMB}{HRA - HRB} = slope\, (m)\\)
+
+1. \\( SMB + slope\, \times ( HRmax - HRB ) =  = VO₂\, max\, (\text{ml} \cdot kg^{-1} \cdot min^{-1})\\)
+
+Work:
+
+1. \\( 1.8 \times \frac{\text{300 }(\frac{kg \cdot m}{min})}{\text{86.4 (kg)}} + 7\, \text{ml} \cdot kg^{-1} \cdot min^{-1} = \mathbf{13.25\, (SMA)}\\)
+
+1. \\( 1.8 \times \frac{\text{450 }(\frac{kg \cdot m}{min})}{\text{86.4 (kg)}} + 7\, \text{ml} \cdot kg^{-1} \cdot min^{-1} = \mathbf{16.375\, (SMB)}\\)
+
+1. \\( \frac{13.25 - 16.375}{120 - 131} = \mathbf{0.28409\, slope\, (m)}\\)
+
+1. \\( 16.375 + 0.28409\, \times ( 164 - 131 ) =  = \mathbf{25.75\, VO₂\, max\, (\text{ml} \cdot kg^{-1} \cdot min^{-1})}\\)
+
+- Percentile ranck from table 7.4: **30**
+- VO₂max classification from table 7.4: **Poor**
+
 
 ## Extrapolation
 
